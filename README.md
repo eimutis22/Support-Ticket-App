@@ -18,4 +18,5 @@
 
 <hr>
 
-<p>Tutorial Website: https://bit.ly/2GE5PNO</p>
+<p>Part 1 - https://bit.ly/2GE5PNO</p>
+<p>Part 2 - https://bit.ly/2GDyypR</p>
