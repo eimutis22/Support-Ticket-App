@@ -4,3 +4,9 @@ php artisan make:auth
 php artisan migrate
 php artisan make:model Ticket -m
 php artisan make:model Category -m
+
+php artisan tinker
+    $category = new App\Category
+    $category->name = "Technical"
+    $category->save()
+

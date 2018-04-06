@@ -11,6 +11,7 @@
     <li>php artisan migrate</li>
     <li>php artisan make:model Ticket/Category -m</li>
     <li>php artisan key:generate</li>
+    <li>php artisan tinker</li>
 
 </ul>
 
