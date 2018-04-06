@@ -10,3 +10,4 @@ php artisan tinker
     $category->name = "Technical"
     $category->save()
 
+php artisan make:controller TicketsController

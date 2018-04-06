@@ -3,7 +3,7 @@
 <h3>Screenshot</h3>
 <img src="Screenshot.png"/>
 
-<h3>Useful Commands Used</h3>
+<h3>Commands Used</h3>
 <ul>
     <li>php artisan key:generate</li>
     <li>php artisan serve</li>
@@ -12,7 +12,8 @@
     <li>php artisan make:model Ticket/Category -m</li>
     <li>php artisan key:generate</li>
     <li>php artisan tinker</li>
-
+    <li>php artisan make:controller TicketsController</li>
+    
 </ul>
 
 <hr>
