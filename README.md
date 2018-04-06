@@ -1,6 +1,9 @@
 <h1>Support Ticket App</h1>
 
-<h4>Useful Commands Used</h4>
+<h3>Screenshot</h3>
+<img src="Screenshot.png"/>
+
+<h3>Useful Commands Used</h3>
 <ul>
     <li>php artisan key:generate</li>
     <li>php artisan serve</li>
